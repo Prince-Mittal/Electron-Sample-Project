@@ -12,12 +12,14 @@
   "author": "Prince Mittal",
   "license": "ISC",
   "dependencies": {
-    "electron": "^11.2.3",
-    "electron-builder": "^22.9.1",
     "electron-updater": "^4.3.5"
   },
   "repository": {
     "type": "git",
     "url": "https://github.com/Prince-Mittal/Electron-Sample-Project.git"
+  },
+  "devDependencies": {
+    "electron": "^11.2.3",
+    "electron-builder": "^22.9.1"
   }
 }
