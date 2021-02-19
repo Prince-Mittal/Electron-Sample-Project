@@ -1,0 +1,4 @@
+appId: com.prerna.ElectronAutoUpdate
+publish:
+  provider: github
+  token: [77f2bf743e84ecad9db560a30dde7fbd171dfdbf]
